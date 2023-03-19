@@ -1,3 +1,3 @@
 # Odin-Recipes
 Intro:
-This project is about begin creating a website on cutting, bulking, and maintaining recipes using an HTML langauge. 
+A website for people who are either bulking, cutting or maintaining their weight.
